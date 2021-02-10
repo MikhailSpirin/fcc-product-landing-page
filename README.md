@@ -6,6 +6,4 @@ Link to the task:
 
 Uses asset from Awsome Fonts (svg from pack + icons used straigt in html) (purpose to test both ways only)
 
-Link to github.io:
-
-[Page](https://mikhailspirin.github.io/fcc-product-landing-page/)
+Link to github.io: [Product Landing Page](https://mikhailspirin.github.io/fcc-product-landing-page/)
