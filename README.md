@@ -1,4 +1,4 @@
-# FreCodeCamp - Product Landing Page
+# FreeCodeCamp - Product Landing Page
 
 ### Uses asset from Awsome Fonts (svg from pack + icons used straigt in html) (purpose to test both ways only)
 
